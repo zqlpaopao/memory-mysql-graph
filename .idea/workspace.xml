@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2b94de2-32ab-4600-8bfe-b19ef0e47fc0" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/.idea/async-rs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/examples/test.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/examples/test.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/common/func.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/common/func.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/common/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/common/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/common/queue.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/common/queue.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/common/rdb_cmd.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/common/rdb_cmd.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/controller/client.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/controller/client.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/controller/handler.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/controller/handler.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/controller/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/controller/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/controller/redis.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/controller/redis.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/controller/server.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/controller/server.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynq-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../asynq-rs/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/graph.rs" beforeDir="false" afterPath="$PROJECT_DIR$/examples/graph.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/graph.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/graph.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/mysql_binlog.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/mysql_binlog.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/async-std.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/crossbeam.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/diesel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/env_logger.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/fast_log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/hashMap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/mpsc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/rbatis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/dcos/rust.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/actix_web.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/anyhow.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/as_ref_into.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/async_await.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/async_std.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/clap_args.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/clickhouse.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/config.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/crossbeam.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/dashmap.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/diesel.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/fast_log.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/hashmap.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/log.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/mpsc.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/mysql.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/num_cpus.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/phantom_data.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/rayon.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/rbatis.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/serde.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/sync_async.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/test_rust.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/test_tokio.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/thiserror.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/thread_pool.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/tokio.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/tokio_console.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/tokio_signal.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/vec.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/controller/wait_group.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_test/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust_test/my_test/src/controller/ai/tch_rs.rs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jNQ1o82J" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2x2APhF32iW0SreBBkzo1PAppEh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zhangqiuli24/Desktop/rust/memory-mysql-graph",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test memory-mysql-graph" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="buildProfileId" value="test" />
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e2b94de2-32ab-4600-8bfe-b19ef0e47fc0" name="更改" comment="" />
+      <created>1747125771613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747125771613</updated>
+      <workItem from="1747125772810" duration="31476000" />
+      <workItem from="1747216266340" duration="6000" />
+      <workItem from="1747216284700" duration="5216000" />
+      <workItem from="1747221646905" duration="200000" />
+      <workItem from="1747221854408" duration="14767000" />
+      <workItem from="1747282227957" duration="7035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

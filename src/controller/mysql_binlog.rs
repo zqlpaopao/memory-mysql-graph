@@ -15,8 +15,8 @@ use std::collections::HashMap;
 pub struct Item<T> {
     pub db_name: String,
     pub table: String,
-    pub tidy_func: Box<dyn Fn(i8, Vec<RowEvent>) -> Option<T>>,
-    pub func: Box<dyn Fn(i8, Option<T>)>,
+    pub tidy_func: Box<dyn Fn(i8, Vec<RowEvent>) -> Option<T> + Send + Sync>,
+    pub func: Box<dyn Fn(i8, Option<T>) + Send + Sync>,
 }
 
 /// Used to monitor changes in the binlog of MySQL
@@ -119,10 +119,10 @@ where
             return;
         }
         let table = table.unwrap();
-        if table.database_name == self.node.db_name && table.table_name != self.node.table {
+        if table.database_name == self.node.db_name && table.table_name == self.node.table {
             let res = (self.node.tidy_func)(tag, data);
             (self.node.func)(tag, res);
-        } else if table.database_name == self.edge.db_name && table.table_name != self.edge.table {
+        } else if table.database_name == self.edge.db_name && table.table_name == self.edge.table {
             let res = (self.edge.tidy_func)(tag, data);
             (self.edge.func)(tag, res);
         }
